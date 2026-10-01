@@ -7,7 +7,7 @@ Nombre del proyecto: Portafolio web con Bootstrap
 
 En el proyecto que es un portafolio web personal desarrollado con html, css y js, incluye imagenes, con el propósito principal es presentar de forma clara y visual mi perfil académico, habilidades técnicas, proyectos desarrollados y mis aspiraciones profesionales dentro del área tecnológica.
 
-- **Framework CSS utilizado:** Bootstrap[cite: 1]
+- **Framework CSS utilizado:** Bootstrap
 - **Plantilla base:** Moonlight CSS Template
 - **Enlace de descarga de la plantilla:** https://themewagon.com/themes/responsive-one-page-bootstrap-template-moonlight/
 
@@ -24,7 +24,7 @@ La plantilla original fue modificada para reestructurar sus secciones y adaptar 
 > **Nota:** La sección original de **Contacto (Contact)** junto con su mapa interactivo y formulario fue eliminada para mantener un diseño más ágil y directo.
 
 
-## 🛠️ Proceso de Creación Paso a Paso
+## Proceso de Creación Paso a Paso
 
 A continuación se detalla el flujo de trabajo realizado para transformar la plantilla base en un portafolio personalizado:
 
@@ -51,9 +51,7 @@ ya que esto tardaba demasiado en entrar a la pagina web
 
 ---
 
-## 📸 Capturas de Pantalla
-
-*(Agrega aquí las capturas de tu portafolio funcionando en el navegador)*
+## Capturas de Pantalla
 
 ![Pantalla de Inicio](./img/cap_home.jpg)
 
